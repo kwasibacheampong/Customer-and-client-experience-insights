@@ -5,7 +5,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Querying-lightgrey)
 
 ## Overview
-This project analyses customer and client experience data to uncover patterns that explain satisfaction, retention, and service performance.
+This project analyses customer and client experience data to uncover patterns that explain satisfaction, retention, and service performance. This project combines customer experience and client service analysis to generate insights that support retention and service performance improvements.
 
 The focus is on turning experience metrics into insights that inform service improvement decisions.
 
