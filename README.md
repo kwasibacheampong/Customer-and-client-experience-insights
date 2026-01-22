@@ -44,6 +44,10 @@ Data limitations are acknowledged, reflecting real-world conditions.
 
 *Snapshot linking service response times to client satisfaction to inform service improvement priorities.*
 
+## Executive summary artefact
+Executive-level decision briefs translating analysis into stakeholder-ready outputs.
+- [View executive summary (PDF)](executive-summary/customer_client_experience_executive_summary.pdf.pdf)
+
 ## Key insights
 - Experience outcomes are often influenced by consistency rather than volume of interaction
 - Delays or unresolved issues disproportionately impact satisfaction
