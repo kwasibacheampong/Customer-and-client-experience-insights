@@ -38,6 +38,12 @@ Data limitations are acknowledged, reflecting real-world conditions.
 - Segment customers based on behavioural and experience indicators
 - Identify signals associated with positive and negative experiences
 
+## Insight snapshot
+
+![Insight snapshot](visuals/insight_snapshot.png)
+
+*Snapshot linking service response times to client satisfaction to inform service improvement priorities.*
+
 ## Key insights
 - Experience outcomes are often influenced by consistency rather than volume of interaction
 - Delays or unresolved issues disproportionately impact satisfaction
