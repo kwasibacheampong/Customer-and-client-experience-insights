@@ -42,6 +42,12 @@ Data limitations are acknowledged, reflecting real-world conditions.
 - Focus service improvements on high-impact touchpoints
 - Tailor service models to different client segments
 - Monitor experience indicators alongside commercial metrics
+  
+## Skills demonstrated
+- Business analysis and decision framing
+- Data analysis using Python and SQL
+- Commercial performance evaluation
+- Stakeholder-focused insight communication
 
 ## Tools used
 - Python for exploratory analysis
