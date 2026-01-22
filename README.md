@@ -4,6 +4,11 @@
 ![Python](https://img.shields.io/badge/Python-Analysis-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Querying-lightgrey)
 
+## How to navigate this repository
+- The README provides the business context, approach, insights, and recommendations
+- The analysis folder contains the supporting notebooks or scripts
+- The visuals folder includes stakeholder-facing snapshots used to support decisions
+
 ## Overview
 This project analyses customer and client experience data to uncover patterns that explain satisfaction, retention, and service performance. This project combines customer experience and client service analysis to generate insights that support retention and service performance improvements.
 
